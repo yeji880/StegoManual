@@ -5,7 +5,7 @@
 ※ 각각의 메뉴는 메뉴명의 오른쪽의 표기를 활용하시면 간단히 이용이 가능합니다.
 
 **Stego**\
-![](<../.gitbook/assets/image (50).png>)
+![](<../.gitbook/assets/image (205).png>)
 
 \- About "Stego" : Stego의 버전 정보가 출력됩니다.\
 \- Preferences : Xcode Signing Option 설정 및 Android Home 설정 값을 확인할 수 있습니다.\
@@ -15,12 +15,12 @@
 
 **Workspace**
 
-****![](<../.gitbook/assets/image (220).png>)****\
+****![](<../.gitbook/assets/image (69).png>)****\
 ****- Open : Workspace 만들거나 수정/삭제 할 수 있는 관리창이 뜹니다.
 
 **File**
 
-![](<../.gitbook/assets/image (73).png>)\
+![](<../.gitbook/assets/image (149).png>)\
 \- New Scenario : 현재 워크스페이스에서 새로운 시나리오 만듭니다.\
 \- New Step : 현재 시나리오에서 새로운 스텝을 만듭니다.\
 \- Save : 지금 작업중인 시나리오를 저장합니다.\
@@ -30,11 +30,11 @@
 
 **Debug**
 
-![](<../.gitbook/assets/image (49).png>)\
+![](<../.gitbook/assets/image (143).png>)\
 \- Play : 현재 시나리오를 처음부터 실행합니다.
 
 **View**\
-![](<../.gitbook/assets/image (89).png>)
+![](<../.gitbook/assets/image (26).png>)
 
 \- Reload : Stego 창을 새로고침 합니다.\
 \- Reset Panel : 모든 패널의 크기를 처음으로 되돌립니다.\
@@ -43,5 +43,5 @@
 
 **Window**
 
-![](<../.gitbook/assets/image (48).png>)\
+![](<../.gitbook/assets/image (224).png>)\
 \- Minimize : Stego 창을 최소화 합니다.

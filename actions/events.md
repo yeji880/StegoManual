@@ -109,5 +109,5 @@ _<mark style="color:red;">주의) Keycode 액션은 안드로이드 전용 액�
    \- Del(67): 키보드 UI의 백스페이스 동작을 수행합니다.\
    \- AppSwitch(187): 안드로이드 앱전환 버튼 동작을 수행합니다.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Keycode Attributes 예제 </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (208).png" alt=""><figcaption><p>Keycode Attributes 예제 </p></figcaption></figure>
 

@@ -28,7 +28,7 @@
    \- ERROR: 조건이 거짓이면 빨간색으로 결과가 출력되며 시나리오가 중단됩니다.\
    \- WARNING: 조건이 거짓이면 노란색으로 결과가 출력되며 다음 스텝이 계속 진행됩니다.
 
-<figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 ### Assert Content
 
@@ -56,7 +56,7 @@
    \- ERROR: 조건이 거짓이면 빨간색으로 결과가 출력되며 시나리오가 중단됩니다.\
    \- WARNING: 조건이 거짓이면 노란색으로 결과가 출력되며 다음 스텝이 계속 진행됩니다.
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption><p>Assert Content Attributes 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (152).png" alt=""><figcaption><p>Assert Content Attributes 예제</p></figcaption></figure>
 
 ### Assert Value
 
@@ -85,7 +85,7 @@
    \- ERROR: 조건이 거짓이면 빨간색으로 결과가 출력되며 시나리오가 중단됩니다.\
    \- WARNING: 조건이 거짓이면 노란색으로 결과가 출력되며 다음 스텝이 계속 진행됩니다.
 
-<figure><img src="../.gitbook/assets/image (116).png" alt=""><figcaption><p>Assert Value Attributes 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p>Assert Value Attributes 예제</p></figcaption></figure>
 
 ### Assert Changed
 
@@ -117,7 +117,7 @@ Assert Changed는 이전 스텝의 액션이 수행되기 직전의 화면과 �
    \- ERROR: 조건이 거짓이면 빨간색으로 결과가 출력되며 시나리오가 중단됩니다.\
    \- WARNING: 조건이 거짓이면 노란색으로 결과가 출력되며 다음 스텝이 계속 진행됩니다.
 
-<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
 
 ### Assert Wait For
 
@@ -138,7 +138,7 @@ Assert UIObject와 유사하게 지정한 화면 요소가 화면상에 존재�
    \- ERROR: 조건이 거짓이면 빨간색으로 결과가 출력되며 시나리오가 중단됩니다.\
    \- WARNING: 조건이 거짓이면 노란색으로 결과가 출력되며 다음 스텝이 계속 진행됩니다.
 
-<figure><img src="../.gitbook/assets/image (146).png" alt=""><figcaption><p>Assert Wait For Attributes 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption><p>Assert Wait For Attributes 예제</p></figcaption></figure>
 
 
 
@@ -171,5 +171,5 @@ Assert Message는 limit으로 정해진 시간 동안 화면에 변화가 감지
    \- ERROR: 조건이 거짓이면 빨간색으로 결과가 출력되며 시나리오가 중단됩니다.\
    \- WARNING: 조건이 거짓이면 노란색으로 결과가 출력되며 다음 스텝이 계속 진행됩니다.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Assert Message Attributes 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (210).png" alt=""><figcaption><p>Assert Message Attributes 예제</p></figcaption></figure>
 

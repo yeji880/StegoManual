@@ -1,10 +1,10 @@
 # 내보내기
 
-<figure><img src="../.gitbook/assets/image (196).png" alt=""><figcaption><p>작성 패널</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption><p>작성 패널</p></figcaption></figure>
 
 작성한 시나리오를 다른 사람과 공유해야 하거나, 백업하고 싶을 때는 내보내기 기능을 이용하세요.
 
-내보내기는 작성 패널 툴바의 ![](<../.gitbook/assets/image (179).png>)아이콘을 클릭해서 할 수 있습니다.
+내보내기는 작성 패널 툴바의 ![](<../.gitbook/assets/image (91).png>)아이콘을 클릭해서 할 수 있습니다.
 
 시나리오 내보내기를 하면 하드디스크에 zip 파일 형태로 저장됩니다.&#x20;
 

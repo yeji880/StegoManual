@@ -1,6 +1,6 @@
 # Stego란?
 
-<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
 Stego는 AI Vision 인식 기술 기반의 모바일 테스트 시나리오 저작 도구입니다.
 
@@ -15,4 +15,4 @@ Stego는 AI Vision 인식 기술 기반의 모바일 테스트 시나리오 저�
   \
 
 
-<figure><img src=".gitbook/assets/image (79).png" alt=""><figcaption><p>Stego 화면 예시</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (146).png" alt=""><figcaption><p>Stego 화면 예시</p></figcaption></figure>

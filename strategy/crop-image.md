@@ -1,6 +1,6 @@
 # Crop Image
 
-<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
 OD나 OCR 도구로 인식이 되지 않은 부분을 화면 요소로 사용해야 할 경우 작성자가 직접 화면 요소를 지정할 때 사용하는 화면 분석 도구 입니다.
 
@@ -13,7 +13,7 @@ Crop Image로 화면 요소를 만들 때는 몇가지 주의 사항이 있습�
 2. 이미지를 선택할때 되도록 바탕화면이 포함되지 않도록 지정하면 인식률이 높아집니다.\
    이는 단색 영역의 비중이 높아질수록 상대적으로 특징점 비율이 낮아지기 때문입니다.\
    ![](https://lh4.googleusercontent.com/s5SO\_xR5s1Cw6GVEWoBqnLbevayzzV6IPxF-iSE4caplR3FQHbNA-9cphevKJiyxYUZNBkRXyf6A9Yyr2uzot1i\_AdMAAEC3YgDqJd4k2-4NwUhlMTNlpjblAiFYbqGnM1brDIY9Y-7Gz8cq2RyxTtaaAdabQHVXWxCeOqiAbdyriJeeaXHxEbaop\_A\_) 바탕화면 영역까지 포함해서 지정했을 때 보다 \
-   ![](<../.gitbook/assets/image (35).png>) 바탕화면 영역을 최소한으로 잡히도록 지정하는 것이 인식률이 더 높습니다.
+   ![](<../.gitbook/assets/image (171).png>) 바탕화면 영역을 최소한으로 잡히도록 지정하는 것이 인식률이 더 높습니다.
 
 ### Crop Image 화면 요소 Attribute&#x20;
 
@@ -32,4 +32,4 @@ Crop Image를 사용한 스텝에서 화면 요소를 클릭하면 다양한 속
    \- 최소값: 0\
    \- 최대값: 1
 
-<figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>

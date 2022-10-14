@@ -4,7 +4,7 @@
 
 워크스페이스에서 시나리오를 추가하면 아래와 같이 Step을 관리하는 화면이 나타납니다.
 
-<figure><img src="../.gitbook/assets/image (147).png" alt=""><figcaption><p>Step을 관리하는 영역이 활성화된 모습</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption><p>Step을 관리하는 영역이 활성화된 모습</p></figcaption></figure>
 
 _<mark style="color:red;">주의) 시나리오의 이름을 선택하지 않으면 Step을 관리하는 영역이 활성화 되지 않습니다.</mark>_
 
@@ -12,7 +12,7 @@ _<mark style="color:red;">주의) 시나리오의 이름을 선택하지 않으�
 
 **작성 패널 구성**
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
 
 ① 시나리오에 저장되지 않은 변경사항이 있을 경우 표시됩니다. 변경된 시나리오를 저장한 경우에는 표시되지 않습니다.
 

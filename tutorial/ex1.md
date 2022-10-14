@@ -23,7 +23,7 @@
 
 <mark style="background-color:green;">Step2.</mark> 화면 분석 후 분석 도구로 "OD"를 선택합니다.
 
-<figure><img src="../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="background-color:green;">Step3.</mark> 화면에서 "Youtube"를 선택한 다음 드래그&드롭으로 선택해서 스텝의 UIObject로 추가합니다.
 

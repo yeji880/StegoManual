@@ -10,7 +10,7 @@
 
 1. UIObject: 터치 액션을 수행할 화면 요소가 출력됩니다.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>터치 액션 Attributes 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (181).png" alt=""><figcaption><p>터치 액션 Attributes 예제</p></figcaption></figure>
 
 
 
@@ -30,7 +30,7 @@
    \- 최대값: 5000\
    \- 단위: ms
 
-<figure><img src="../.gitbook/assets/image (108).png" alt=""><figcaption><p>여러번 터치 액션 Attributes 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>여러번 터치 액션 Attributes 예제</p></figcaption></figure>
 
 
 
@@ -42,7 +42,7 @@
 
 1. UIObject: 두번 터치를 수행할 화면 요소가 출력됩니다.
 
-<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption><p>두번 터치 액션 Attributes 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption><p>두번 터치 액션 Attributes 예제</p></figcaption></figure>
 
 
 
@@ -58,7 +58,7 @@
    \- 최대값: 5000\
    \- 단위: ms
 
-<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption><p>길게 터치 액션 Attributes 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (147).png" alt=""><figcaption><p>길게 터치 액션 Attributes 예제</p></figcaption></figure>
 
 
 
@@ -81,7 +81,7 @@
    \- 최대값: 5000\
    \- 단위: ms
 
-<figure><img src="../.gitbook/assets/image (149).png" alt=""><figcaption><p>스와이프 액션 Attributes 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption><p>스와이프 액션 Attributes 예제</p></figcaption></figure>
 
 
 
@@ -105,7 +105,7 @@
    \- 최대값: 5000\
    \- 단위: ms
 
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption><p>스크롤 액션 Attributes 에제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (170).png" alt=""><figcaption><p>스크롤 액션 Attributes 에제</p></figcaption></figure>
 
 
 
@@ -115,7 +115,7 @@
 
 주로 날짜나 시간을 설정하는 화면에서 주로 사용되는 액션입니다.
 
-<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption><p>드래그  액션 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (148).png" alt=""><figcaption><p>드래그  액션 예제</p></figcaption></figure>
 
 #### Drag Attributes&#x20;
 
@@ -133,7 +133,7 @@
    \- 최대값: 5000\
    \- 단위: ms
 
-<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption><p>드래그 액션 Attributes 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (183).png" alt=""><figcaption><p>드래그 액션 Attributes 예제</p></figcaption></figure>
 
 ### Pinch In / Pinch Out
 
@@ -153,20 +153,20 @@ Zoom in, Zoom out 액션을 수행합니다.
    \- 최대값: 5000\
    \- 단위: ms
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>핀치 인/아웃 액션 Attributes 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption><p>핀치 인/아웃 액션 Attributes 예제</p></figcaption></figure>
 
 ### Input
 
 키보드로 특정 값을 입력하고자 할 때 사용합니다. 앱화면에 키보드가 활성화 된 상태에서 전체 화면을 UIObject로 설정하고 입력할 값을 Attributes 패널의 value 필드에 입력하세요.
 
-<figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption><p>입력 액션 적성 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>입력 액션 적성 예제</p></figcaption></figure>
 
 #### Input Attributes&#x20;
 
 1. value: 입력 필드에 입력될 문자열을 설정합니다.
 2. UIObject: 문자열이 입력될 화면 요소를 나타냅니다. 만약 화면에 키보드가 활성화 되어 있을 경우에는 화면 전체를  UIObject로 설정하면 현재 활성화 되어 있는 입력 필드에 값이 입력됩니다.
 
-<figure><img src="../.gitbook/assets/image (165).png" alt=""><figcaption><p>입력 Attributes 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (96).png" alt=""><figcaption><p>입력 Attributes 예제</p></figcaption></figure>
 
 ### Secure Keyboard
 
@@ -184,5 +184,5 @@ _<mark style="color:red;">주의) 보안키보드가 켜진 상태의 Full Scree
    \- 최대값: 5000\
    \- 단위: ms
 
-<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption><p>보안 키보드 Attributes 예제 </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption><p>보안 키보드 Attributes 예제 </p></figcaption></figure>
 

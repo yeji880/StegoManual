@@ -1,6 +1,6 @@
 # Relative
 
-<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 내용이 실시간으로 바뀌어서 OD나 OCR로 화면 요소를 지정하기 애매할 경우 변하지 않는 화면 요소를 기준 삼아 상대 위치 기반으로 화면 요소를 지정해야 할 때 사용합니다.
 
@@ -49,4 +49,4 @@ Relative 화면 요소는 기준점과 Relative 두가지에 대한 Attribute를
 3. Right: 화면 요소의 우측 하단 X 좌표
 4. Bottom: 화면 요소의 우측 하단 Y 좌표
 
-<figure><img src="../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>

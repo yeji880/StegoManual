@@ -16,4 +16,4 @@
 
 1. Shared Scenario: 사용할 공유 시나리오를 선택합니다.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Shared Scenario Attributes 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (209).png" alt=""><figcaption><p>Shared Scenario Attributes 예제</p></figcaption></figure>

@@ -1,6 +1,6 @@
 # Custom Box
 
-<figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 화면에서 특정 범위를 지정할 때 사용하는 화면 분석 도구입니다. 주로 스크롤, 스와이프 등 특정 화면 요소보다는 면적 기반의 액션을 수행할 때 사용됩니다.
 
@@ -21,4 +21,4 @@ Custom Box를 사용한 스텝에서 화면 요소를 클릭하면 다양한 속
 3. Right: 화면 요소의 우측 하단 X 좌표
 4. Bottom: 화면 요소의 우측 하단 Y 좌표
 
-<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
