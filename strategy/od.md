@@ -1,6 +1,6 @@
 # OD(Object Detection)
 
-<figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
 
 화면 분석 도구 중 기본 도구입니다.&#x20;
 
@@ -43,7 +43,7 @@ Inspector 테이블의 항목을 클릭하면 화면 분석 결과에 노란색�
 
 반대로 화면 분석 결과에서 특정 화면 요소를 클릭해도 Inspector 테이블의 항목이 노란색으로 활성화 됩니다.
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption><p>OD Inspector 활성화 된 상태 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>OD Inspector 활성화 된 상태 예제</p></figcaption></figure>
 
 ### OD 화면 요소 Attributes
 
@@ -73,4 +73,4 @@ OD 화면 요소 Attributes를 접근하는 방법은 아래 링크를 참고하
 4. Case Sensitive: 알파벳 문자의 경우 대소문자 구분 여부를 설정할 수 있습니다.
 5. Selector: 테스트를 진행할 때 화면 요소와 일치하는 요소가 여러개 나왔을 때 몇번째 요소를 사용할지 지정합니다. 0을 제외한 정수값으로 설정 가능합니다. (참고: '-1'을 입력했을 경우 맨 마지막 요소를 사용합니다.)&#x20;
 
-<figure><img src="../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>

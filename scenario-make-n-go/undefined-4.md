@@ -6,7 +6,7 @@
 
 ① 스텝의 빈공간을 클릭하면 스텝에 설정된 액션의 속성을 변경할 수 있는 Attributes 패널이 하단에 활성화 됩니다.
 
-<figure><img src="../.gitbook/assets/image (148).png" alt=""><figcaption><p>액션 속성 패널</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (187).png" alt=""><figcaption><p>액션 속성 패널</p></figcaption></figure>
 
 
 
@@ -22,11 +22,11 @@
 
 스텝의 화면 요소를 클릭하면 화면 요소에 대한 세세한 설정을 할 수 있는 UIObject Field 창이 뜹니다.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 #### UIObject Field
 
-<figure><img src="../.gitbook/assets/image (153).png" alt=""><figcaption><p>UIObject Field 창</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (157).png" alt=""><figcaption><p>UIObject Field 창</p></figcaption></figure>
 
 #### ① 화면 요소 목록
 
@@ -50,7 +50,7 @@
 
 스텝에 새로운 화면 요소를 추가할 때 사용합니다. 화면 분석 패널에서 새로운 화면 요소를 선택해서 이 공간에 드래그&드롭하면 현재 스텝에 새로운 화면 요소가 추가됩니다.
 
-<figure><img src="../.gitbook/assets/image (224).png" alt=""><figcaption><p>현재 스텝에 새로운 화면 요소 추가하는 방법</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (205).png" alt=""><figcaption><p>현재 스텝에 새로운 화면 요소 추가하는 방법</p></figcaption></figure>
 
 #### ④ 화면 요소 테스트하기
 
@@ -58,7 +58,7 @@
 
 테스트 모드를 종료하려면 "Quit Test Mode" 버튼을 클릭하세요.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>화면 요소 테스트 모드 화면</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption><p>화면 요소 테스트 모드 화면</p></figcaption></figure>
 
 #### ⑤ 화면 요소 삭제하기
 

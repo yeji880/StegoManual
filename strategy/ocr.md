@@ -1,6 +1,6 @@
 # OCR(Optical Character Recognition)
 
-<figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
 화면에 있는 문자 정보를 읽어서 화면 요소로 제공해 줍니다. 현재 읽을 수 있는 문자는 한글, 영어, 숫자, 특수문자입니다.
 
@@ -19,7 +19,7 @@ Inspector 테이블의 항목을 클릭하면 화면 분석 결과에 노란색�
 
 반대로 화면 분석 결과에서 특정 화면 요소를 클릭해도 Inspector 테이블의 항목이 노란색으로 활성화 됩니다.
 
-<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
 
 ### OCR 화면 요소 Attribute
 
@@ -47,4 +47,4 @@ OCR 화면 요소 Attribute를 접근하는 방법은 아래 링크를 참고하
 3. Case Sensitive: 알파벳 문자의 경우 대소문자 구분 여부를 설정할 수 있습니다.
 4. Selector: 테스트를 진행할 때 화면 요소와 일치하는 요소가 여러개 나왔을 때 몇번째 요소를 사용할지 지정합니다. 0을 제외한 정수값으로 설정 가능합니다. (참고: '-1'을 입력했을 경우 맨 마지막 요소를 사용합니다.)
 
-<figure><img src="../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>

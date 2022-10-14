@@ -15,7 +15,7 @@
 1. key: 값을 저장해 두고 다른 곳에서 사용할때 사용될 키값입니다.
 2. value: key 값으로 저장되어 있는 실제 데이터 입니다.
 
-<figure><img src="../.gitbook/assets/image (202).png" alt=""><figcaption><p>Store Value Attributes 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (197).png" alt=""><figcaption><p>Store Value Attributes 예제</p></figcaption></figure>
 
 ### Store Content
 
@@ -34,7 +34,7 @@
 3. pattern: 정규표현식을 사용할 수 있습니다.\
    만약 특정 위치에 대소문자 구분없이 "welcome"이라는 문구가 있을때만 값을 저장하고 싶으면 <mark style="background-color:blue;">/welcome/i</mark> 정규표현식을 입력하면 됩니다.
 
-<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption><p>Store Content Attributes 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (94).png" alt=""><figcaption><p>Store Content Attributes 예제</p></figcaption></figure>
 
 ### Random Number
 
@@ -44,7 +44,7 @@
 
 1. key: 저장한 값을 사용할 때 쓰기 위한 식별자 입니다.
 
-<figure><img src="../.gitbook/assets/image (219).png" alt=""><figcaption><p>랜덤 숫자 생성 Attributes 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (154).png" alt=""><figcaption><p>랜덤 숫자 생성 Attributes 예제</p></figcaption></figure>
 
 ### Random Text
 
@@ -58,7 +58,7 @@
 2. prefix (optional): 텍스트 앞부분에 고정된 값을 사용하고 싶을 때 설정할 수 있습니다.
 3. number of characters: 랜덤으로 생성할 문자 수를 지정할 수 있습니다. (1-10 중에 선택할 수 있습니다.)
 
-<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption><p>랜덤 문자열 생성 Attributes 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption><p>랜덤 문자열 생성 Attributes 예제</p></figcaption></figure>
 
 ### Export Variable
 
@@ -70,4 +70,4 @@
 
 1. key: 다른 시나리오와 공유할 저장한 값의 key를 입력합니다.
 
-<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption><p>변수 공유 Attributes 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (193).png" alt=""><figcaption><p>변수 공유 Attributes 예제</p></figcaption></figure>

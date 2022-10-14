@@ -11,7 +11,7 @@
 
 화면 왼쪽에 있는 시나리오 패널은 워크스페이스에 포함되어 있는 시나리오의 목록과 관리를 위한 기능들이 위치해 있습니다.
 
-<figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption><p>시나리오 관리 패널</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption><p>시나리오 관리 패널</p></figcaption></figure>
 
 **시나리오 생성하기**
 
@@ -23,10 +23,10 @@
 [undefined-2.md](undefined-2.md)
 {% endcontent-ref %}
 
-<figure><img src="../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
 
 ① 신규 작성 또는 Open한 워크스페이스의 이름이 표시됩니다.\
-② 시나리오 목록 상단에 있는 <img src="../.gitbook/assets/image (25).png" alt="" data-size="line">을 클릭합니다.\
+② 시나리오 목록 상단에 있는 <img src="../.gitbook/assets/image (6).png" alt="" data-size="line">을 클릭합니다.\
 ③ 시나리오 이름을 입력하면 새로운 시나리오 만들기가 완료 됩니다.\
 _<mark style="color:red;">주의) 시나리오는 특수문자(\`\~!@#$%^&\*|/’“;:/?) 를 포함하여 시나리오 이름을 설정할 수 없습니다.</mark>_
 
@@ -34,7 +34,7 @@ _<mark style="color:red;"></mark>_
 
 **시나리오 불러오기**
 
-시나리오 관리 패널 상단에 있는 <img src="../.gitbook/assets/image (117).png" alt="" data-size="line">을 클릭하면 내보내기해 두었던 시나리오를 불러올 수 있습니다.\
+시나리오 관리 패널 상단에 있는 <img src="../.gitbook/assets/image (111).png" alt="" data-size="line">을 클릭하면 내보내기해 두었던 시나리오를 불러올 수 있습니다.\
 시나리오를 내보내기 하는 법은 아래 링크를 참고하세요.
 
 {% content-ref url="../scenario-make-n-go/undefined-2.md" %}
@@ -49,7 +49,7 @@ _<mark style="color:red;"></mark>_
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (225).png" alt=""><figcaption><p>시나리오 Context 메뉴 </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption><p>시나리오 Context 메뉴 </p></figcaption></figure>
 
 
 

@@ -1,6 +1,6 @@
 # Full Screen
 
-<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 
 화면 전체를 화면 요소로 설정할 때 사용됩니다. 주로 전체 영역을 스크롤하거나 스와이프 할 때 쓰입니다.
 

@@ -6,7 +6,7 @@
 
 설정한 UIObject가 화면 상에 존재하는지를 판단해서 자식 스텝을 실행합니다.
 
-<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption><p>부모 스텝과 자식 스텝 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>부모 스텝과 자식 스텝 예제</p></figcaption></figure>
 
 #### If UIObject Attributes&#x20;
 
@@ -15,7 +15,7 @@
    \- EXISTS: 화면에 화면 요소가 존재한다면 자식 스텝을 실행합니다.\
    \- NOT EXISTS: 화면에 화면 요소가 존재하지 않는다면 자식 스텝을 실행합니다.
 
-<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption><p>If UIObject Attributes 예제 </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption><p>If UIObject Attributes 예제 </p></figcaption></figure>
 
 ### If Content
 
@@ -23,7 +23,7 @@ UIObject 자체보다 UIObject의 실제 내용을 비교 대상으로 사용할
 
 If UIObject는 화면 요소 자체를 비교 대상으로 사용하는 반면, If Content는 화면 요소 자체 보다는 그 안에 포함되어 있는 Text 정보를 비교 대상으로 사용한다는 차이점이 있습니다.
 
-<figure><img src="../.gitbook/assets/image (151).png" alt=""><figcaption><p>If Content 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (203).png" alt=""><figcaption><p>If Content 예제</p></figcaption></figure>
 
 #### If Content Attributes&#x20;
 
@@ -40,7 +40,7 @@ If UIObject는 화면 요소 자체를 비교 대상으로 사용하는 반면, 
    \- search: 정규 표현식을 사용합니다. 화면 요소의 Text가 정규 표현식을 포함하면 자식 스텝을 실행합니다. \
    &#x20; 참고자료: [https://docs.python.org/3/library/re.html#re.search](https://docs.python.org/3/library/re.html#re.search)
 
-<figure><img src="../.gitbook/assets/image (209).png" alt=""><figcaption><p>If Content Attributes 예제 </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (212).png" alt=""><figcaption><p>If Content Attributes 예제 </p></figcaption></figure>
 
 ### If Value
 
@@ -68,7 +68,7 @@ Store Value/Content 또는 Random Number/Text 액션을 통해 저장된 값을 
    &#x20; 참고자료: [https://docs.python.org/3/library/re.html#re.search](https://docs.python.org/3/library/re.html#re.search)&#x20;
 3. value: 비교할 문자열 또는 숫자를 입력합니다.
 
-<figure><img src="../.gitbook/assets/image (162).png" alt=""><figcaption><p>If Value Attributes 예제 </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (178).png" alt=""><figcaption><p>If Value Attributes 예제 </p></figcaption></figure>
 
 ### If Changed
 
@@ -130,7 +130,7 @@ If Changed 액션은 이전 스텝의 액션이 수행되기 직전 화면과 �
 
 이 액션은 자식 스텝을 정해진 횟수만큼 반복 실행합니다.
 
-<figure><img src="../.gitbook/assets/image (152).png" alt=""><figcaption><p>Play store에서 추천앱 상세보기 후 뒤로가기, 스와이프로 다음 앱으로 이동하는 과정을 Loop Ntimes로 반복하는 시나리오 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (160).png" alt=""><figcaption><p>Play store에서 추천앱 상세보기 후 뒤로가기, 스와이프로 다음 앱으로 이동하는 과정을 Loop Ntimes로 반복하는 시나리오 예제</p></figcaption></figure>
 
 #### Loop Ntimes Attributes
 
@@ -139,7 +139,7 @@ If Changed 액션은 이전 스텝의 액션이 수행되기 직전 화면과 �
    \- 최소값: 1\
    \- 단위: 횟수
 
-<figure><img src="../.gitbook/assets/image (102).png" alt=""><figcaption><p>Loop Ntimes Attributes 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption><p>Loop Ntimes Attributes 예제</p></figcaption></figure>
 
 ### Loop Content
 
@@ -171,7 +171,7 @@ If Changed 액션은 이전 스텝의 액션이 수행되기 직전 화면과 �
    \- 최소값: 1\
    \- 단위: 횟수
 
-<figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption><p>Loop Content Attributes 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (170).png" alt=""><figcaption><p>Loop Content Attributes 예제</p></figcaption></figure>
 
 ### Loop Value
 
@@ -199,7 +199,7 @@ Store Value/Content 또는 Random Number/Text 로 미리 저장해둔 값과 사
    \- 최소값: 1\
    \- 단위: 횟수
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption><p>Loop Value Attributes 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Loop Value Attributes 예제</p></figcaption></figure>
 
 ### Loop Wait For
 
@@ -207,7 +207,7 @@ Store Value/Content 또는 Random Number/Text 로 미리 저장해둔 값과 사
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption><p>네트워크 속도가 느리거나 저사양 디바이스에서 구글맵을 실행했을 때 Search here라는 문자열이 뜰때까지 대기하는 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (175).png" alt=""><figcaption><p>네트워크 속도가 느리거나 저사양 디바이스에서 구글맵을 실행했을 때 Search here라는 문자열이 뜰때까지 대기하는 예제</p></figcaption></figure>
 
 #### Loop Wait For Attributes
 
@@ -218,5 +218,5 @@ Store Value/Content 또는 Random Number/Text 로 미리 저장해둔 값과 사
    \- 최대값: 60000\
    \- 단위: ms
 
-<figure><img src="../.gitbook/assets/image (190).png" alt=""><figcaption><p>Loop Wait For Attributes 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (224).png" alt=""><figcaption><p>Loop Wait For Attributes 예제</p></figcaption></figure>
 

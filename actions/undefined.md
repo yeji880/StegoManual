@@ -1,14 +1,14 @@
 # 액션 목록
 
-<figure><img src="../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
-①<img src="../.gitbook/assets/image (79).png" alt="" data-size="line">버튼을 눌러 Step을 생성 합니다.
+①<img src="../.gitbook/assets/image (19).png" alt="" data-size="line">버튼을 눌러 Step을 생성 합니다.
 
 ② 클릭하여 생성된 Step의 이름을 변경할 수 있습니다.
 
 ③ 생성된 Step에서 액션 선택영역을 누르면 아래와 같이 선택 가능한 액션 리스트가 표시됩니다.
 
-<figure><img src="../.gitbook/assets/image (154).png" alt=""><figcaption><p>액션 목록</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (219).png" alt=""><figcaption><p>액션 목록</p></figcaption></figure>
 
 #### Motion
 
