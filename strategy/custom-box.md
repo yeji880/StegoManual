@@ -4,7 +4,7 @@
 
 화면에서 특정 범위를 지정할 때 사용하는 화면 분석 도구입니다. 주로 스크롤, 스와이프 등 특정 화면 요소보다는 면적 기반의 액션을 수행할 때 사용됩니다.
 
-_<mark style="color:red;">주의) Custom Box Strategy는 특정 화면 요소가 아닌 화면의 영역을 인식하기 때문에, 현재와 다른 화면에서 인식하여 추가한 Custom Box도 현재 디바이스 화면에서 인식 가능합니다.</mark>_
+_<mark style="color:red;">주의) Custom Box Strategy는 특정 화면 요소가 아닌 화면의 영역을 인식하기 때문에, 현재와 다른 화면을 인식하여 추가한 Custom Box도 현재 디바이스 화면에서 인식할 수 있습니다.</mark>_
 
 _<mark style="color:red;"></mark>_
 

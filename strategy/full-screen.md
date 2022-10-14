@@ -6,7 +6,7 @@
 
 Custom Box와 유사하지만 드래그&드롭할 필요 없이 전체화면을 바로 지정할 수 있는 점이 다릅니다.
 
-_<mark style="color:red;">주의) Full Screen Strategy는 특정 화면 요소가 아닌 화면의 영역을 인식하기 때문에, 현재와 다른 화면에서 인식하여 추가한 Full Screen도 현재 디바이스 화면에서 인식 가능합니다.</mark>_
+_<mark style="color:red;">주의) Full Screen Strategy는 특정 화면 요소가 아닌 화면의 영역을 인식하기 때문에, 현재와 다른 화면을 인식하여 추가한 Full Screen도 현재 디바이스 화면에서 인식할 수 있습니다.</mark>_
 
 _<mark style="color:red;"></mark>_
 
