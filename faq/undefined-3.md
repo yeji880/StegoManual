@@ -21,3 +21,22 @@
     &#x20;\- OD(Object Detection)은 AI를 통한 UIObject의 추천 선택을 뜻합니다.\
     &#x20;\- Relative는 화면 내의 선택 요소를 상값으로 한 UIObject를 뜻합니다.\
     &#x20; \* 기술과 관련된 다른 질문사항은 사용설명서를 참조하거나 stego.support@apptest.ai로 문의하세요.\
+
+* **테스트 과정에서 발생하는 Output 메세지는 어떤 것이 있는지 궁금합니다.**\
+  ****에러 메세지는 하단의 표를 참조하세요.
+
+| Error Message                                                                | Message 설명                                                                                                                                                             |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| {custom message}                                                             | Assertion에서 작성자가 입력한 메시지                                                                                                                                               |
+| Invalid Variable: The {key} variable is not defined                          | <p>- Action의 key attribute에 입력한 값에 매칭되는 variable이 session에 선언(저장)되지 않은 경우<br>- Action의 value attribute에 ${VARIABLE}로 입력한 값에 매칭되는 variable이 session에 선언(저장)되지 않은 경우</p> |
+| Invalid Value: The {value} pattern is an invalid regular expression          | Action의 value attribte에 regular expression을 잘못 입력한 경우                                                                                                                  |
+| Condition Mismatched:{locator\_desc} {arg.comparator}                        | IfUIObject, AssertUIObject의 comparator의 조건과 일치하지 않는 경우                                                                                                                 |
+| Condition Mismatched:{\_val} {self.\_to\_sign\_char(arg.comparator)} {value} | IfContent, IfValue, AssertContent, AssertValue의 comparator의 조건과 일치하지 않는 경우                                                                                             |
+| Detected(n%) in {limit}ms                                                    | IfChanged, AssertChanged에서 제한시간(limit)내에 변화된 영역을 감지한 경우                                                                                                                |
+| Detected(n%), but the difference score is lower than the threshold(y%)       | IfChanged, AssertChanged에서 제한시간(limit)내에 변화된 영역을 감지 하였으나, threshold값보다 변화량이 작은 경우                                                                                      |
+| No changes detected in {limit}ms                                             | IfChanged, AssertChanged에서 제한시간(limit)내에 변화를 감지하지 못한경우                                                                                                                 |
+| Condition Mismatched: {message} {arg.comparator} {value}                     | AssertMessage에서 comparator의 조건과 일치하지 않는 메시지를 감지한 경우                                                                                                                    |
+| A system-side error occurred due to a connection failure with the device.    | 장비 연결문제로 인해 스텝을 수행할 수 없는 경우                                                                                                                                            |
+| Invalid Step: {description of step}                                          | 스텝의 정보가 잘못된 경우                                                                                                                                                         |
+| No Element Matched                                                           | UIObject를 테스트 당시 스크린에서 찾을 수 없는 경우                                                                                                                                      |
+| Failed: {error message}                                                      | 시나리오가 실패한 경우                                                                                                                                                           |

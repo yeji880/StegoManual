@@ -34,5 +34,4 @@ UIObject Selector 패널 상단 오른쪽에 있는 <img src="../.gitbook/assets
 
 <figure><img src="../.gitbook/assets/스크린샷 2022-10-17 오후 1.06.44.png" alt=""><figcaption><p>Accessibility를 이용해 분석된 보안 화면</p></figcaption></figure>
 
-해당 기능은 보안 키보드 화면 등을 분석할때 사용되며, 자세한 사용법은 사용설명서 내의 [Secure Keyboard ](../actions/motion.md#secure-keyboard)부분을 참고하세요.
-
+해당 기능은 보안 키보드 화면 등을 분석할때 사용되며, 자세한 사용법은 사용설명서 내의 [Secure Keyboard ](../actions/motion.md#secure)부분을 참고하세요.
