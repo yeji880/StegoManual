@@ -4,7 +4,7 @@
 
 <figure><img src="../.gitbook/assets/디바이스 패널 _ 수정 이미지.png" alt=""><figcaption></figcaption></figure>
 
-Ⓐ [화면 분석 도구](../strategy/detail.md)를 실행 합니다.
+Ⓐ ["화면 분석 도구"](../strategy/detail.md)를 실행 합니다.
 
 Ⓑ 디바이스의 앱 전환 버튼 동작을 수행합니다.
 
