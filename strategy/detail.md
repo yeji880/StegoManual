@@ -30,6 +30,6 @@ UIObject Selector 패널 상단 오른쪽에 있는 <img src="../.gitbook/assets
 
 ### 보안화면 분석하기
 
-안드로이드에서 'FLAG\_SECURE'가 적용되어 Vision을 통한 화면 분석이 불가능한 경우에도 Accessibility 기능을 통해 화면 분석이 가능합니다.
+안드로이드에서 'FLAG\_SECURE'가 적용되어 Black screen 으로 인해 Vision을 통한 화면 분석이 불가능한 경우에도 Accessibility를 사용하여 UIElement를 선택할 수 있도록 분석하는 기능이 포함되어 있습니다.
 
 <figure><img src="../.gitbook/assets/스크린샷 2022-10-17 오후 1.06.44.png" alt=""><figcaption><p>Accessibility를 이용해 분석된 보안 화면</p></figcaption></figure>
