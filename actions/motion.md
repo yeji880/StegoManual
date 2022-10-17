@@ -79,7 +79,7 @@
 
 상하로 스크롤할 수 있는 화면 요소을 대상으로 스크롤하는 액션입니다. 전체 화면을 스크롤 할 때는 UIObject Selector 패널에서 Full Screen Strategy를 사용해 화면 요소를 생성한 스텝에 등록하면 됩니다.
 
-_<mark style="color:red;">주의) 안드로이드 디바이스는 Full Screen Strategy를 사용할 경우, area를 100으로 설정하면 Stego에서는 정상적으로 수행되나 디바이스 화면은 Scroll되지 않습니다.</mark>_&#x20;
+_<mark style="color:red;">주의) 안드로이드는 Full Screen Strategy를 사용하여 Scroll기능을 사용할 경우 area를 100으로 설정하면 시나리오는 정상적으로 수행되나, 디바이스 특성상 실제 화면은 Scroll되지 않습니다.</mark>_&#x20;
 
 #### Scroll Attributes&#x20;
 

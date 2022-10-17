@@ -119,7 +119,7 @@ If Changed 액션은 이전 스텝의 액션이 수행되기 직전 화면과 �
 3. limit: 자식 스텝의 최대 반복 횟수를 설정할 수 있습니다.\
    \- 기본값: 5\
    \- 최소값: 1\
-   \- 최대값: 없음\
+   \- 최대값: 1000\
    \- 단위: 횟수
 
 <figure><img src="../.gitbook/assets/image (194).png" alt=""><figcaption><p>Loop UIObject Attributes 예제 </p></figcaption></figure>
@@ -137,6 +137,7 @@ If Changed 액션은 이전 스텝의 액션이 수행되기 직전 화면과 �
 1. limit: 반복 횟수를 지정할 수 있습니다.\
    \- 기본값: 5\
    \- 최소값: 1\
+   \- 최대값: 1000\
    \- 단위: 횟수
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Loop Ntimes Attributes 예제</p></figcaption></figure>
@@ -169,6 +170,7 @@ If Changed 액션은 이전 스텝의 액션이 수행되기 직전 화면과 �
 4. limit: 반복 횟수를 지정합니다.\
    \- 기본값: 5\
    \- 최소값: 1\
+   \- 최대값: 1000\
    \- 단위: 횟수
 
 <figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption><p>Loop Content Attributes 예제</p></figcaption></figure>
@@ -197,6 +199,7 @@ Store Value/Content 또는 Random Number/Text 로 미리 저장해둔 값과 사
 4. limit: 반복 횟수를 지정합니다.\
    \- 기본값: 5\
    \- 최소값: 1\
+   \- 최대값: 1000\
    \- 단위: 횟수
 
 <figure><img src="../.gitbook/assets/image (163).png" alt=""><figcaption><p>Loop Value Attributes 예제</p></figcaption></figure>
