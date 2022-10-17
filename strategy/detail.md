@@ -26,8 +26,10 @@ UIObject Selector 패널 상단 오른쪽에 있는 <img src="../.gitbook/assets
 
 <figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption><p>이미지 URL을 이용한 화면 분석하기 </p></figcaption></figure>
 
+
+
 ### 보안화면 분석하기
 
 안드로이드에서 FLAG\_SECURE 기능이 적용되어 AI Vision을 통해 캡처가 불가능한 경우에도 Accessibility를 통해 분석이 가능합니다.
 
-해당 기능은 보안 키보드 화면 등을 분석할때 사용되며, 자세한 사용법은 사용설명서 내의 [Secure Keyboard](../actions/motion.md#secure-keyboard-attributes) 부분을 참고하세요.
+해당 기능은 보안 키보드 화면 등을 분석할때 사용되며, 자세한 사용법은 사용설명서 내의 [Secure Keyboard](../actions/motion.md#secure) 부분을 참고하세요.

@@ -12,8 +12,6 @@
 
 <figure><img src="../.gitbook/assets/image (181).png" alt=""><figcaption><p>터치 액션 Attributes 예제</p></figcaption></figure>
 
-
-
 ### NTimes Touch
 
 화면 요소를 설정한 횟수만큼 터치하는 액션입니다.
@@ -32,8 +30,6 @@
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>여러번 터치 액션 Attributes 예제</p></figcaption></figure>
 
-
-
 ### Double Touch
 
 화면 요소를 두번 터치하는 액션입니다.
@@ -43,8 +39,6 @@
 1. UIObject: 두번 터치를 수행할 화면 요소가 출력됩니다.
 
 <figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption><p>두번 터치 액션 Attributes 예제</p></figcaption></figure>
-
-
 
 ### Long Touch
 
@@ -59,8 +53,6 @@
    \- 단위: ms
 
 <figure><img src="../.gitbook/assets/image (147).png" alt=""><figcaption><p>길게 터치 액션 Attributes 예제</p></figcaption></figure>
-
-
 
 ### Swipe
 
@@ -83,8 +75,6 @@
 
 <figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption><p>스와이프 액션 Attributes 예제</p></figcaption></figure>
 
-
-
 ### Scroll
 
 상하로 스크롤할 수 있는 화면 요소을 대상으로 스크롤하는 액션입니다. 전체 화면을 스크롤 할 때는 UIObject Selector 패널에서 Full Screen Strategy를 사용해 화면 요소를 생성한 스텝에 등록하면 됩니다.
@@ -106,8 +96,6 @@
    \- 단위: ms
 
 <figure><img src="../.gitbook/assets/image (170).png" alt=""><figcaption><p>스크롤 액션 Attributes 에제</p></figcaption></figure>
-
-
 
 ### Drag
 
@@ -173,7 +161,7 @@ Zoom in, Zoom out 액션을 수행합니다.
 화면에 띄워진 보안키보드에 Attributes에서 설정한 입력값을 입력합니다. \
 _<mark style="color:red;">주의) 보안키보드가 켜진 상태의 Full Screen Strategy를 사용해야 합니다.</mark>_
 
-#### Secure Keyboard Attributes&#x20;
+#### Secure Keyboard Attributes  <a href="#secure_attribute" id="secure_attribute"></a>
 
 1. value: 보안키보드에 입력할 값입니다.
 2. UIObject: Secure Keyboard를 수행하는 UIObject 입니다.&#x20;
