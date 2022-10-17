@@ -9,8 +9,7 @@
 
 2. 앱이름을 검색해서 실행하기\
 
-3. 앱 고유 아이디값을 이용해 바로 실행하기
-
+3. 앱 고유 아이디값을 이용해 바로 실행하기\
 
 
 ### 1. 바탕화면의 아이콘 클릭해서 실행하기&#x20;
@@ -32,8 +31,6 @@
 <mark style="background-color:green;">Step4.</mark> 작성한 스텝을 실행합니다.
 
 <figure><img src="../.gitbook/assets/스크린샷 2022-09-22 오후 3.00.11.png" alt=""><figcaption></figcaption></figure>
-
-
 
 
 
@@ -76,8 +73,6 @@
 <mark style="background-color:green;">Step2.</mark> 실행하고자 하는 앱(Youtube)의 App ID를 입력합니다. 테스트 할 기기가 Android일 경우 화면 하단 Attributes의 Package Name에 , iOS일 경우 Bundle ID에 입력합니다.
 
 <figure><img src="../.gitbook/assets/스크린샷 2022-09-22 오후 5.42.08.png" alt=""><figcaption></figcaption></figure>
-
-
 
 <mark style="background-color:green;">Step3.</mark> 작성한 스텝을 실행합니다.
 

@@ -26,7 +26,7 @@
   ****테스트 도중 발생하는 ERROR / WARNING Message는 [디바이스](../basic/devices.md) 창 하단의 Output 창에 표시됩니다.\
   Message의 종류와 설명은 하단의 표를 참조하세요.
 
-| ERROR / WARNING Message                                                      | Message 설명                                                                                                                                                             |
+| ERROR / WARNING                                                              | Message 설명                                                                                                                                                             |
 | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | {custom message}                                                             | Assertion에서 작성자가 입력한 메시지                                                                                                                                               |
 | Invalid Variable: The {key} variable is not defined                          | <p>- Action의 key attribute에 입력한 값에 매칭되는 variable이 session에 선언(저장)되지 않은 경우<br>- Action의 value attribute에 ${VARIABLE}로 입력한 값에 매칭되는 variable이 session에 선언(저장)되지 않은 경우</p> |
