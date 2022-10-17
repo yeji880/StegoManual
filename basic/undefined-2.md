@@ -21,7 +21,10 @@
 **신규 워크스페이스 만들기**
 
 워크스페이스 관리창의 하단에 있는 New Workspace 버튼을 클릭하면 다음과 같이 워크스페이스 목록 마지막에 빈칸이 추가되고, 빈칸에 신규 워크스페이스 이름을 입력하면 신규 워크스페이스가 만들어 집니다.\
-_<mark style="color:red;">주의) 워크스페이스의 이름은 특수문자(\`\~!@#$%^&\*|/’“;:/?)를 포함할 수 없습니다. 이름 중간의 빈칸(Whitespace)은 허용되나 빈칸만 입력하는 것은 불가능합니다. 최대 길이는 100자로 제한됩니다.</mark>_
+_<mark style="color:red;">주의 1) 워크스페이스의 이름은 특수문자(\`\~!@#$%^&\*|/’“;:/?)를 포함할 수 없습니다. 이름 중간의 빈칸(Whitespace)은 허용되나 빈칸만 입력하는 것은 불가능합니다.</mark>_\
+_<mark style="color:red;">주의 2) 최대 길이는 100자로 제한됩니다. 텍스트가 길어지는 경우 말줄임 표시로 표기되나, 전체 텍스트는 마우스 오버로 확인이 불가능합니다.</mark>_
+
+_<mark style="color:red;"></mark>_
 
 <figure><img src="../.gitbook/assets/image (186).png" alt=""><figcaption><p>New Workspace 클릭 후 빈목록이 추가된 모습</p></figcaption></figure>
 
@@ -40,4 +43,3 @@ _<mark style="color:red;">주의 1) 워크스페이스 이름을 변경할 때 �
 _<mark style="color:red;">주의 2) 1개 이상의 시나리오가 포함되어 있는 워크스페이스는 삭제할 수 없습니다.</mark>_
 
 <figure><img src="../.gitbook/assets/image (135).png" alt=""><figcaption><p>이름 변경/삭제 메뉴 </p></figcaption></figure>
-
