@@ -168,7 +168,7 @@ Zoom in, Zoom out 액션을 수행합니다.
 
 <figure><img src="../.gitbook/assets/image (96).png" alt=""><figcaption><p>입력 Attributes 예제</p></figcaption></figure>
 
-### Secure Keyboard
+### Secure Keyboard <a href="#secure" id="secure"></a>
 
 화면에 띄워진 보안키보드에 Attributes에서 설정한 입력값을 입력합니다. \
 _<mark style="color:red;">주의) 보안키보드가 켜진 상태의 Full Screen Strategy를 사용해야 합니다.</mark>_
