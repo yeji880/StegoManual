@@ -23,10 +23,10 @@
     &#x20; \* 기술과 관련된 다른 질문사항은 사용설명서를 참조하거나 stego.support@apptest.ai로 문의하세요.\
 
 * **시나리오 테스트시에 어떻게 오류를 찾아 낼 수 있나요?**\
-  ****테스트 도중 발생하는 Error Message는 [디바이스](../basic/devices.md) 창 하단의 Output 창에 표시됩니다.\
-  Error Message는 하단의 표를 참조하세요.
+  ****테스트 도중 발생하는 ERROR / WARNING Message는 [디바이스](../basic/devices.md) 창 하단의 Output 창에 표시됩니다.\
+  Message의 종류와 설명은 하단의 표를 참조하세요.
 
-| Error Message                                                                | Message 설명                                                                                                                                                             |
+| ERROR / WARNING Message                                                      | Message 설명                                                                                                                                                             |
 | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | {custom message}                                                             | Assertion에서 작성자가 입력한 메시지                                                                                                                                               |
 | Invalid Variable: The {key} variable is not defined                          | <p>- Action의 key attribute에 입력한 값에 매칭되는 variable이 session에 선언(저장)되지 않은 경우<br>- Action의 value attribute에 ${VARIABLE}로 입력한 값에 매칭되는 variable이 session에 선언(저장)되지 않은 경우</p> |
