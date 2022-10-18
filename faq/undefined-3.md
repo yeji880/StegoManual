@@ -19,7 +19,7 @@
     &#x20;\- UIObject는 AI 화면 분석을 통해 만들어진 UI 요소를 뜻합니다.\
     &#x20;\- OCR은 텍스트 형식의 UIObject를 뜻합니다.\
     &#x20;\- OD(Object Detection)은 AI를 통한 UIObject의 추천 선택을 뜻합니다.\
-    &#x20;\- Relative는 화면 내의 선택 요소를 상댓값으로 선택한 UIObject를 뜻합니다.\
+    &#x20;\- Relative는 화면 내의 특정 요소를 상댓값으로 지정한 UIObject를 뜻합니다.\
     &#x20; \* 기술과 관련된 다른 질문사항은 사용설명서를 참조하거나 stego.support@apptest.ai로 문의하세요.\
 
 * **시나리오 테스트시에 어떻게 오류를 찾아 낼 수 있나요?**\
