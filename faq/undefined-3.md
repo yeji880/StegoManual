@@ -16,7 +16,7 @@
     Stego는 사람이 디바이스 애플리케이션을 이용할 때 상호작용하는 방식을 흉내 내도록 AI로 구현되었습니다.
 
     &#x20;\- 인공지능 기술을 바탕으로, Stego는 UIObject라고 불리는 특정 UI 요소를 구별합니다.\
-    &#x20;\- UIObject는 AI 화면 분석을 통해 만들어진 UI 요소를 뜻합니다.\
+    &#x20;\- UIObject는 AI 화면 분석을 통해 만들어진 UIElement를 뜻합니다.\
     &#x20;\- OCR은 텍스트 형식의 UIObject를 뜻합니다.\
     &#x20;\- OD(Object Detection)은 AI를 통한 UIObject의 추천 선택을 뜻합니다.\
     &#x20;\- Relative는 화면 내의 특정 요소를 상댓값으로 지정한 UIObject를 뜻합니다.\
