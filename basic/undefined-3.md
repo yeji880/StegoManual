@@ -26,9 +26,9 @@
 
 Ⓘ 디바이스의 입력창에 보드로 입력한 문구를 전송합니다.&#x20;
 
-&#x20;   _<mark style="color:red;">\*최대 길이는 1000자로 제한됩니다.</mark>_
+<figure><img src="../.gitbook/assets/스크린샷 2022-10-13 오후 1.15.49.png" alt=""><figcaption><p>키보드 버튼을 누르면 나타나는 입력창</p></figcaption></figure>
 
-&#x20;   ![](<../.gitbook/assets/스크린샷 2022-10-13 오후 1.15.49.png>)
+&#x20; _<mark style="color:red;">\* 최대 길이는 1000자로 제한됩니다.</mark>_
 
 Ⓙ 디바이스의 현재 화면을 캡쳐하여 저장합니다.
 
