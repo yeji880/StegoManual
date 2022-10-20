@@ -1,8 +1,6 @@
 # 메뉴바
 
-<figure><img src="https://lh6.googleusercontent.com/yxv8ifvi_A3WfG28Fv4T0unSOqTz6VdSfjgkB4HLA5gbK4IIInTdQbqC4rbVfJq_0Y9esLE1MorgPQQi1YzQJWOUW9D5k4sVa0YFgw-460iBczZLgreE_aiQVrEn4pxv8dZZccp2utwNL1mG2bOnqA" alt=""><figcaption><p>메뉴바의 구성</p></figcaption></figure>
-
-※ 각각의 메뉴는 메뉴명의 오른쪽의 표기를 활용하시면 간단히 이용이 가능합니다.
+<figure><img src="../.gitbook/assets/스크린샷 2022-05-16 오후 3.55.33.png" alt=""><figcaption><p>메뉴바의 구성</p></figcaption></figure>
 
 **Stego**\
 ![](<../.gitbook/assets/image (205).png>)
