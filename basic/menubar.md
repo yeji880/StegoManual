@@ -4,8 +4,6 @@
 
 ※ 각각의 메뉴는 메뉴명의 오른쪽의 표기를 활용하시면 간단히 이용이 가능합니다
 
-
-
 **Stego**
 
 ![](<../.gitbook/assets/image (205).png>)
@@ -48,7 +46,7 @@
 ****
 
 **View**\
-![](<../.gitbook/assets/image (26).png>)
+<img src="../.gitbook/assets/image (26).png" alt="" data-size="original">
 
 \- Reload : Stego 창을 새로고침 합니다.\
 \- Reset Panel : 모든 패널의 크기를 처음으로 되돌립니다.\
