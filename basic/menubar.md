@@ -15,12 +15,16 @@
 
 **Workspace**
 
-****![](<../.gitbook/assets/image (69).png>)****\
-****- Open : Workspace 만들거나 수정/삭제 할 수 있는 관리창이 뜹니다.
+****![](<../.gitbook/assets/image (69).png>)
+
+\- Open : Workspace 만들거나 수정/삭제 할 수 있는 관리창이 뜹니다.
+
+****
 
 **File**
 
-![](<../.gitbook/assets/image (149).png>)\
+![](<../.gitbook/assets/image (149).png>)
+
 \- New Scenario : 현재 워크스페이스에서 새로운 시나리오를 만듭니다.\
 \- New Step : 현재 시나리오에서 새로운 스텝을 만듭니다.\
 \- Save : 지금 작업중인 시나리오를 저장합니다.\
@@ -28,10 +32,15 @@
 \- Paste : 복사된 텍스트를 붙여넣습니다.\
 \- Select All : 모든 텍스트를 선택합니다.
 
+
+
 **Debug**
 
-![](<../.gitbook/assets/image (143).png>)\
+![](<../.gitbook/assets/image (143).png>)
+
 \- Play : 현재 시나리오를 처음부터 실행합니다.
+
+****
 
 **View**\
 ![](<../.gitbook/assets/image (26).png>)
@@ -41,7 +50,10 @@
 \- Toggle Full Screen : 창화면에서 전체화면으로, 전체화면에서 창화면으로 바뀝니다.\
 \- Cancel Full Screen : 전체화면을 비활성화 합니다.
 
+****
+
 **Window**
 
-![](<../.gitbook/assets/image (224).png>)\
+![](<../.gitbook/assets/image (224).png>)
+
 \- Minimize : Stego 창을 최소화 합니다.
