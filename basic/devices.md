@@ -4,13 +4,15 @@ PC와 테스트용 기기를 연결한 후 Stego의 기본 화면의 우측 Devi
 
 <figure><img src="../.gitbook/assets/image (206).png" alt=""><figcaption><p>디바이스 관리 영</p></figcaption></figure>
 
+
+
 접속 가능한 디바이스의 상태 및 리스트가 표시 됩니다.(표시되는 디바이스 중 최대 4대까지 접속 가능)
 
 접속하고자 하는 디바이스를 선택 후 <img src="../.gitbook/assets/image (92).png" alt="" data-size="line"> 버튼을 클릭하여 접속할 수 있습니다.
 
 <figure><img src="../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;※기기의 상태는 아래의 3가지가 존재 합니다.
+&#x20;※ 기기의 상태는 아래의 3가지가 존재 합니다.
 
 &#x20;   <img src="../.gitbook/assets/image (196).png" alt="" data-size="line"> : PC와 연결은 되었으나, Stego와 접속이 되지 않은 상태 입니다.
 
