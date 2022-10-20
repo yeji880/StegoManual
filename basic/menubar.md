@@ -2,7 +2,12 @@
 
 <figure><img src="../.gitbook/assets/스크린샷 2022-05-16 오후 3.55.33.png" alt=""><figcaption><p>메뉴바의 구성</p></figcaption></figure>
 
-**Stego**\
+※ 각각의 메뉴는 메뉴명의 오른쪽의 표기를 활용하시면 간단히 이용이 가능합니다
+
+
+
+**Stego**
+
 ![](<../.gitbook/assets/image (205).png>)
 
 \- About "Stego" : Stego의 버전 정보가 출력됩니다.\
@@ -10,6 +15,8 @@
 \- Hide Stego : Stego를 숨깁니다                                                                                                                 \
 \- Hide Others : 현재 실행중인 다른 앱들을 숨깁니다.                                                                                \
 \- Show All : 위에서 숨긴 다른 앱들을 표시합니다.
+
+****
 
 **Workspace**
 
