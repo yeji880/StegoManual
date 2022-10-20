@@ -4,7 +4,9 @@
 
 ※ 각각의 메뉴는 메뉴명의 오른쪽의 표기를 활용하시면 간단히 이용이 가능합니다
 
-**Stego**
+
+
+#### **Stego**
 
 ![](<../.gitbook/assets/image (205).png>)
 
@@ -16,15 +18,13 @@
 
 ****
 
-**Workspace**
+#### **Workspace**
 
 ****![](<../.gitbook/assets/image (69).png>)
 
 \- Open : Workspace 만들거나 수정/삭제 할 수 있는 관리창이 뜹니다.
 
-****
-
-**File**
+#### **File**
 
 ![](<../.gitbook/assets/image (149).png>)
 
@@ -37,7 +37,7 @@
 
 
 
-**Debug**
+#### **Debug**
 
 ![](<../.gitbook/assets/image (143).png>)
 
@@ -45,8 +45,7 @@
 
 ****
 
-**View**\
-<img src="../.gitbook/assets/image (26).png" alt="" data-size="original">
+#### **View** <img src="../.gitbook/assets/image (26).png" alt="" data-size="original">
 
 \- Reload : Stego 창을 새로고침 합니다.\
 \- Reset Panel : 모든 패널의 크기를 처음으로 되돌립니다.\
@@ -55,7 +54,7 @@
 
 ****
 
-**Window**
+#### **Window**
 
 ![](<../.gitbook/assets/image (224).png>)
 
