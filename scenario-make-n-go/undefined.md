@@ -36,7 +36,7 @@
 액션 중 Control 항목(Loop Wait For제외)은 하단에 하위 스텝(Child Step)을 생성할 수 있습니다. \
 
 
-③ 스텝의 <img src="../.gitbook/assets/image (4).png" alt="" data-size="line"> 아이콘을 위아래로 드래그&드롭하는 방식으로 Step의 순서를 변경할 수 있습니다.\
+③ 스텝의 <img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> 아이콘을 위아래로 드래그&드롭하는 방식으로 Step의 순서를 변경할 수 있습니다.\
 (하위 스텝 추가가 가능한 액션의 경우 특정 스텝을 드래그&드롭 하여 하위 스텝으로 넣을 수도 있습니다.)
 
 
