@@ -79,7 +79,7 @@
 
 상하로 스크롤할 수 있는 화면 요소을 대상으로 스크롤하는 액션입니다. 전체 화면을 스크롤 할 때는 UIObject Selector 패널에서 Full Screen Strategy를 사용해 화면 요소를 생성한 스텝에 등록하면 됩니다.
 
-_<mark style="color:red;">주의) 안드로이드 기기에서 하단 영역에 터치 요소가 있거나 Navigation bar가 Swipe gesture로 설정되어 있을 때 Full Screen Strategy 로 화면 분석을 하여 Scroll 액션을 사용할 경우, area를 최댓값과 가깝게 설정하면 Scroll 액션은 정상적으로 수행되나 실제 화면은 의도하지 않은 동작이 발생할 수 있습니다.</mark>_
+_<mark style="color:red;">주의) 안드로이드 기기에서 하단 영역에 터치 요소가 있거나 Navigation bar가 Swipe gesture로 설정되어 있을 때 Full Screen Strategy 로 화면 분석을 하여 Scroll 액션을 사용할 경우, area를 95% 이상으로 설정하면 Scroll 액션은 정상적으로 수행되나 실제 화면의 변화는 없을 수 있습니다.</mark>_
 
 #### Scroll Attributes&#x20;
 
