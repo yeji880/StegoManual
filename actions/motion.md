@@ -151,7 +151,7 @@ Zoom in, Zoom out 액션을 수행합니다.
 
 <figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>입력 액션 적성 예제</p></figcaption></figure>
 
-#### Input Attributes&#x20;
+**Input Attributes**&#x20;
 
 1. value: 입력 필드에 입력될 문자열을 설정합니다.
 2. UIObject: 문자열이 입력될 화면 요소를 나타냅니다. 만약 화면에 키보드가 활성화 되어 있을 경우에는 화면 전체를  UIObject로 설정하면 현재 활성화 되어 있는 입력 필드에 값이 입력됩니다.
