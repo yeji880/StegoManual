@@ -8,21 +8,23 @@
 
 <figure><img src="../.gitbook/assets/스크린샷 2022-09-26 오후 3.10.16 (1).png" alt=""><figcaption><p>시나리오 속성 설정창</p></figcaption></figure>
 
-#### User Variable : 사용자 설정 변수
+**User Variable : 사용자 설정 변수**
 
 사용자 설정 변수 기능은 시나리오에서 자주 사용될 것으로 예상되는 값을 미리 저장해 두고 사용하기 위한 값입니다.
 
 액션 중 ["Store Value"](../actions/variables.md#store-value)가 비슷한 기능을 하는데, 다른 점은 "Store Value"를 사용한 스텝 이후에 실행되는 스텝에서만 설정한 값을 사용할 수 있는 반면, 사용자 설정 변수로 만들어둔 값은 시나리오가 실행되는 동안 어떤 스텝에서든 사용할 수 있습니다. \
+\
 
 
-#### 사용자 설정 변수 만들기
+**사용자 설정 변수 만들기**
 
 시나리오 속성창에서 <img src="../.gitbook/assets/image (207).png" alt="" data-size="line">을 클릭하면 새로운 key와 value를 입력할 수 있는 입력란이 출력됩니다.\
 ****출력된 입력란에 key와 value를 입력한 다음, <img src="../.gitbook/assets/image (218).png" alt="" data-size="line">를 클릭하면 사용자 설정 변수가 만들어 집니다.
 
 <figure><img src="../.gitbook/assets/스크린샷 2022-09-26 오후 3.11.18.png" alt=""><figcaption><p>새로운 사용자 설정 변수 만들기</p></figcaption></figure>
 
-\
+
+
 **사용자 설정 변수 수정 / 삭제 하기**
 
 사용자 설정 변수는 수정 가능한 입력란 형태로 출력이 되기 때문에 key나 value 값을 수정한 다음 <img src="../.gitbook/assets/image (218).png" alt="" data-size="line">를 클릭하면 수정 사항이 저장됩니다.
@@ -33,7 +35,7 @@ _<mark style="color:red;">주의) 사용자 설정 변수를 생성, 수정, 삭
 
 
 
-#### 사용자 설정 변수 사용하기
+**사용자 설정 변수 사용하기**
 
 만들어둔 변수를 사용해야 하는 곳에 변수의 key값을 입력하면 사용할 수 있습니다.
 
@@ -45,7 +47,9 @@ _<mark style="color:red;">주의) 변수를 사용할 경우에는 반드시 변
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>사용자 설정 변수 사용하기 예제</p></figcaption></figure>
 
-#### &#x20;공유 시나리오의 사용자 설정 변수
+
+
+**공유 시나리오의 사용자 설정 변수**
 
 공유 시나리오를 불러와 사용하고 있는 시나리오는 사용자 설정 변수 목록에 공유 시나리오에 설정된 사용자 설정 변수도 함께 출력됩니다.
 
@@ -60,6 +64,8 @@ _<mark style="color:red;">주의) 변수를 사용할 경우에는 반드시 변
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>공유 시나리오에서 Export Variable을 해 서 실행이 성공한 경우</p></figcaption></figure>
 
 "Export Variable"에 대한 자세한 설명은 ["액션 목록"](broken-reference) 아래 "Variables" 페이지를 아래 참고해 주세요.
+
+
 
 {% content-ref url="../actions/variables.md" %}
 [variables.md](../actions/variables.md)
