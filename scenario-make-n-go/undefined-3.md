@@ -15,14 +15,13 @@
 
 #### 사용자 설정 변수 만들기
 
-시나리오 속성창에서 <img src="../.gitbook/assets/image (207).png" alt="" data-size="line">을 클릭하면 새로운 key와 value를 입력할 수 있는 입력란이 출력됩니다.
-
-출력된 입력란에 key와 value를 입력한 다음, <img src="../.gitbook/assets/image (218).png" alt="" data-size="line">를 클릭하면 사용자 설정 변수가 만들어 집니다.
+시나리오 속성창에서 <img src="../.gitbook/assets/image (207).png" alt="" data-size="line">을 클릭하면 새로운 key와 value를 입력할 수 있는 입력란이 출력됩니다.\
+****출력된 입력란에 key와 value를 입력한 다음, <img src="../.gitbook/assets/image (218).png" alt="" data-size="line">를 클릭하면 사용자 설정 변수가 만들어 집니다.
 
 <figure><img src="../.gitbook/assets/스크린샷 2022-09-26 오후 3.11.18.png" alt=""><figcaption><p>새로운 사용자 설정 변수 만들기</p></figcaption></figure>
 
 \
-사용자 설정 변수 수정 / 삭제 하기
+**사용자 설정 변수 수정 / 삭제 하기**
 
 사용자 설정 변수는 수정 가능한 입력란 형태로 출력이 되기 때문에 key나 value 값을 수정한 다음 <img src="../.gitbook/assets/image (218).png" alt="" data-size="line">를 클릭하면 수정 사항이 저장됩니다.
 
