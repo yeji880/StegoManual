@@ -6,8 +6,7 @@
 
 <figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption><p>Step을 관리하는 영역이 활성화된 모습</p></figcaption></figure>
 
-_<mark style="color:red;">주의) 시나리오의 이름을 선택하지 않으면 Step을 관리하는 영역이 활성화 되지 않습니다.</mark>_
-
+_<mark style="color:red;">주의) 시나리오의 이름을 선택하지 않으면 Step을 관리하는 영역이 활성화 되지 않습니다.</mark>_\
 &#x20;        _<mark style="color:red;">Step을 관리하는 영역이 활성화 되지 않을 경우에는 시나리오 이름을 클릭하면 활성화 됩니다.</mark>_
 
 **작성 패널 구성**
