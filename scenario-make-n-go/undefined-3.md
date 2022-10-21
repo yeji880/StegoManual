@@ -2,6 +2,8 @@
 
 <figure><img src="../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
 
+
+
 작성 패널 툴바 중 톱니 아이콘(<img src="../.gitbook/assets/image (117).png" alt="" data-size="line">)을 클릭하면 아래와 같은 시나리오 속성창이 표시됩니다.
 
 <figure><img src="../.gitbook/assets/스크린샷 2022-09-26 오후 3.10.16 (1).png" alt=""><figcaption><p>시나리오 속성 설정창</p></figcaption></figure>
@@ -29,7 +31,7 @@
 
 _<mark style="color:red;">주의) 사용자 설정 변수를 생성, 수정, 삭제 한 다음 반드시</mark>_ <img src="../.gitbook/assets/image (218).png" alt="" data-size="line">_<mark style="color:red;">버튼을 클릭해서 저장해야 작업한 내용이 적용됩니다.</mark>_
 
-####
+
 
 #### 사용자 설정 변수 사용하기
 
