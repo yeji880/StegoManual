@@ -2,7 +2,7 @@
 
 Stego를 실행하면 아래와 같이 6가지 요소로 구성된 화면이 뜹니다.
 
-<figure><img src="../.gitbook/assets/캡처 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 #### (1) 메뉴바
 
