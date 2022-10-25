@@ -45,9 +45,9 @@ _<mark style="color:red;">주의) 사용자 설정 변수를 생성, 수정, 삭
 
 _<mark style="color:red;">주의) 변수를 사용할 경우에는 반드시 변수의 key값을 ${key값} 형태로 입력해주세요.</mark>_
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>사용자 설정 변수 사용하기 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/스크린샷 2022-10-25 오후 3.44.58.png" alt=""><figcaption><p>사용자 설정 변수 사용하기 예제</p></figcaption></figure>
 
-
+****
 
 **공유 시나리오의 사용자 설정 변수**
 
