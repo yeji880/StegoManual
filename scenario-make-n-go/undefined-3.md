@@ -61,11 +61,9 @@ _<mark style="color:red;">주의) 변수를 사용할 경우에는 반드시 변
 
 <figure><img src="../.gitbook/assets/스크린샷 2022-10-25 오후 3.50.51.png" alt=""><figcaption><p>공유 시나리오에서 Export Variable을 하지 않아 실행이 실패한 경우</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/스크린샷 2022-10-25 오후 3.49.53 (1).png" alt=""><figcaption><p>공유 시나리오에서 Export Variable을 해 서 실행이 성공한 경우</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/스크린샷 2022-10-25 오후 3.49.53.png" alt=""><figcaption><p>공유 시나리오에서 Export Variable을 해 서 실행이 성공한 경우</p></figcaption></figure>
 
 "Export Variable"에 대한 자세한 설명은 ["액션 목록"](broken-reference) 아래 "Variables" 페이지를 아래 참고해 주세요.
-
-
 
 {% content-ref url="../actions/variables.md" %}
 [variables.md](../actions/variables.md)

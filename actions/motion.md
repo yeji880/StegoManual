@@ -149,7 +149,7 @@ Zoom in, Zoom out 액션을 수행합니다.
 
 키보드로 특정 값을 입력하고자 할 때 사용합니다. 앱화면에 키보드가 활성화 된 상태에서 전체 화면을 UIObject로 설정하고 입력할 값을 Attributes 패널의 value 필드에 입력하세요.
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>입력 액션 적성 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>입력 액션 성 예제</p></figcaption></figure>
 
 **Input Attributes**&#x20;
 
