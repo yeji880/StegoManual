@@ -2,8 +2,6 @@
 
 <figure><img src="../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
 
-
-
 작성 패널 툴바 중 톱니 아이콘(<img src="../.gitbook/assets/image (117).png" alt="" data-size="line">)을 클릭하면 아래와 같은 시나리오 속성창이 표시됩니다.
 
 <figure><img src="../.gitbook/assets/스크린샷 2022-09-26 오후 3.10.16 (1).png" alt=""><figcaption><p>시나리오 속성 설정창</p></figcaption></figure>
@@ -27,8 +25,7 @@
 
 **사용자 설정 변수 수정 / 삭제 하기**
 
-사용자 설정 변수는 수정 가능한 입력란 형태로 출력이 되기 때문에 key나 value 값을 수정한 다음 <img src="../.gitbook/assets/image (218).png" alt="" data-size="line">를 클릭하면 수정 사항이 저장됩니다.
-
+사용자 설정 변수는 수정 가능한 입력란 형태로 출력이 되기 때문에 key나 value 값을 수정한 다음 <img src="../.gitbook/assets/image (218).png" alt="" data-size="line">를 클릭하면 수정 사항이 저장됩니다.\
 삭제는 변수 오른쪽에 있는 <img src="../.gitbook/assets/image (175).png" alt="" data-size="line">버튼을 클릭한 다음, <img src="../.gitbook/assets/image (218).png" alt="" data-size="line">를 클릭하면 해당 사용자 설정 변수가 삭제됩니다.
 
 _<mark style="color:red;">주의) 사용자 설정 변수를 생성, 수정, 삭제 한 다음 반드시</mark>_ <img src="../.gitbook/assets/image (218).png" alt="" data-size="line">_<mark style="color:red;">버튼을 클릭해서 저장해야 작업한 내용이 적용됩니다.</mark>_
