@@ -6,7 +6,8 @@
 
 ② 클릭하여 생성된 Step의 이름을 변경할 수 있습니다.
 
-③ 생성된 Step에서 액션 선택영역을 누르면 아래와 같이 선택 가능한 액션 리스트가 표시됩니다.
+③ 생성된 Step에서 액션 선택영역을 누르면 아래와 같이 선택 가능한 액션 리스트가 표시됩니다.\
+
 
 <figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption><p>액션 목록</p></figcaption></figure>
 
