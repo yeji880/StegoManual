@@ -1,5 +1,7 @@
 # 시나리오 테스트
 
+
+
 * **테스트 시나리오를 작성하는 데 얼마나 걸리나요?**\
   때에 따라 다르지만, 프로그래밍 보다는 훨씬 빠르게 작성할 수 있습니다. Stego를 통한 테스트 시나리오 작성은 스마트폰 터치 제스처를 기반으로 이루어지며, GUI 버튼과 텍스트 요소를 선택하여 원하는 동작을 드래그 앤 드랍 으로 저장하는 것만으로 충분합니다.\
   또한 Stego는 코드 작성이 필요 없으며 로그인 테스트처럼 간단한 시나리오를 작성할 때 초보자라면 약 10분, 숙련자라면 5분이면 가능합니다. 시나리오 작성과 관련된 자세한 사항은 사용설명서를 참조하세요.\
@@ -26,18 +28,18 @@
   ****테스트 도중 발생하는 ERROR / WARNING Message는 [디바이스](../basic/devices.md) 창 하단의 Output 창에 표시됩니다.\
   Message의 종류와 설명은 하단의 표를 참조하세요.
 
-| ERROR / WARNING                                                              | Message 설명                                                                                                                                                             |
-| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {custom message}                                                             | Assertion에서 작성자가 입력한 메시지                                                                                                                                               |
-| Invalid Variable: The {key} variable is not defined                          | <p>- Action의 key attribute에 입력한 값에 매칭되는 variable이 session에 선언(저장)되지 않은 경우<br>- Action의 value attribute에 ${VARIABLE}로 입력한 값에 매칭되는 variable이 session에 선언(저장)되지 않은 경우</p> |
-| Invalid Value: The {value} pattern is an invalid regular expression          | Action의 value attribute에 regular expression을 잘못 입력한 경우                                                                                                                 |
-| Condition Mismatched:{locator\_desc} {arg.comparator}                        | IfUIObject, AssertUIObject의 comparator의 조건과 일치하지 않는 경우                                                                                                                 |
-| Condition Mismatched:{\_val} {self.\_to\_sign\_char(arg.comparator)} {value} | IfContent, IfValue, AssertContent, AssertValue의 comparator의 조건과 일치하지 않는 경우                                                                                             |
-| Detected(n%) in {limit}ms                                                    | IfChanged, AssertChanged에서 제한시간(limit)내에 변화된 영역을 감지한 경우                                                                                                                |
-| Detected(n%), but the difference score is lower than the threshold(y%)       | IfChanged, AssertChanged에서 제한시간(limit)내에 변화된 영역을 감지 하였으나, threshold값보다 변화량이 작은 경우                                                                                      |
-| No changes detected in {limit}ms                                             | IfChanged, AssertChanged에서 제한시간(limit)내에 변화를 감지하지 못한경우                                                                                                                 |
-| Condition Mismatched: {message} {arg.comparator} {value}                     | AssertMessage에서 comparator의 조건과 일치하지 않는 메시지를 감지한 경우                                                                                                                    |
-| A system-side error occurred due to a connection failure with the device.    | 장비 연결문제로 인해 스텝을 수행할 수 없는 경우                                                                                                                                            |
-| Invalid Step: {description of step}                                          | 스텝의 정보가 잘못된 경우                                                                                                                                                         |
-| No Element Matched                                                           | UIObject를 테스트 당시 스크린에서 찾을 수 없는 경우                                                                                                                                      |
-| Failed: {error message}                                                      | 시나리오가 실패한 경우                                                                                                                                                           |
+| ERROR / WARNING                                                              | Message 설명                                                                                                                                                                    |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| {custom message}                                                             | Assertion에서 작성자가 입력한 메시지                                                                                                                                                      |
+| Invalid Variable: The {key} variable is not defined                          | <p>- Action의 key attribute에 입력한 값에 매칭되는 variable이 session에 선언(저장)되지 않은 경우<br>- Action의 value attribute에 ${VARIABLE}로<br>입력한 값에 매칭되는 variable이 session에 선언<br>(저장)되지 않은 경우</p> |
+| Invalid Value: The {value} pattern is an invalid regular expression          | Action의 value attribute에 regular expression을 잘못 입력한 경우                                                                                                                        |
+| Condition Mismatched:{locator\_desc} {arg.comparator}                        | IfUIObject, AssertUIObject의 comparator의 조건과 일치하지 않는 경우                                                                                                                        |
+| Condition Mismatched:{\_val} {self.\_to\_sign\_char(arg.comparator)} {value} | IfContent, IfValue, AssertContent, AssertValue의 comparator의 조건과 일치하지 않는 경우                                                                                                    |
+| Detected(n%) in {limit}ms                                                    | IfChanged, AssertChanged에서 제한시간(limit)내에 변화된 영역을 감지한 경우                                                                                                                       |
+| Detected(n%), but the difference score is lower than the threshold(y%)       | IfChanged, AssertChanged에서 제한시간(limit)내에 변화된 영역을 감지 하였으나, threshold값보다 변화량이 작은 경우                                                                                             |
+| No changes detected in {limit}ms                                             | IfChanged, AssertChanged에서 제한시간(limit)내에 변화를 감지하지 못한경우                                                                                                                        |
+| Condition Mismatched: {message} {arg.comparator} {value}                     | AssertMessage에서 comparator의 조건과 일치하지 않는 메시지를 감지한 경우                                                                                                                           |
+| A system-side error occurred due to a connection failure with the device.    | 장비 연결문제로 인해 스텝을 수행할 수 없는 경우                                                                                                                                                   |
+| Invalid Step: {description of step}                                          | 스텝의 정보가 잘못된 경우                                                                                                                                                                |
+| No Element Matched                                                           | UIObject를 테스트 당시 스크린에서 찾을 수 없는 경우                                                                                                                                             |
+| Failed: {error message}                                                      | 시나리오가 실패한 경우                                                                                                                                                                  |
