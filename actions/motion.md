@@ -73,7 +73,7 @@
    \- 최대값: 5000\
    \- 단위: ms
 
-<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption><p>스와이프 액션 Attributes 예제</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption><p>스와이프 액션 Attributes 예제\<br></p></figcaption></figure>
 
 ### Scroll
 
