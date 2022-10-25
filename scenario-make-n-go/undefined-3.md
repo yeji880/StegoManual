@@ -59,9 +59,9 @@ _<mark style="color:red;">주의) 변수를 사용할 경우에는 반드시 변
 
 실제로 공유 시나리오의 사용자 설정 변수를 사용하기 위해서는 공유 시나리오에서 "Export Variable" 액션으로 사용할 사용자 설정 변수를 설정해 줘야 이 공유 시나리오를 불러온 부모 시나리오에서 변수를 사용할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption><p>공유 시나리오에서 Export Variable을 하지 않아 실행이 실패한 경우</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/스크린샷 2022-10-25 오후 3.50.51.png" alt=""><figcaption><p>공유 시나리오에서 Export Variable을 하지 않아 실행이 실패한 경우</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>공유 시나리오에서 Export Variable을 해 서 실행이 성공한 경우</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/스크린샷 2022-10-25 오후 3.49.53 (1).png" alt=""><figcaption><p>공유 시나리오에서 Export Variable을 해 서 실행이 성공한 경우</p></figcaption></figure>
 
 "Export Variable"에 대한 자세한 설명은 ["액션 목록"](broken-reference) 아래 "Variables" 페이지를 아래 참고해 주세요.
 
