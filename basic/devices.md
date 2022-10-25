@@ -2,7 +2,7 @@
 
 PC와 테스트용 기기를 연결한 후 Stego의 기본 화면의 우측 Device 에서 <img src="../.gitbook/assets/image (1).png" alt="" data-size="line"> 버튼으로 디바이스를 추가 할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (206).png" alt=""><figcaption><p>디바이스 관리 영</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
 
 
 
