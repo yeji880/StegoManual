@@ -1,7 +1,6 @@
 # Table of contents
 
-* [목차](README.md)
-* [Stego란?](<README (1).md>)
+* [Stego란?](README.md)
 
 ## 기본 기능 <a href="#basic" id="basic"></a>
 
