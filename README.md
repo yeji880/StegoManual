@@ -14,4 +14,4 @@ Stego는 AI Vision 인식 기술 기반의 모바일 테스트 시나리오 저�
   다양한 화면 분석 도구를 통해 기존 테스트 케이스 작성의 한계를 넘어 보다 세밀하고 풍부한 테스트 케이스를 작성할 수 있습니다.\
 
 
-<figure><img src=".gitbook/assets/스크린샷 2022-10-25 오전 11.34.35.png" alt=""><figcaption><p>Stego 화면 예시 </p></figcaption></figure>
+<figure><img src=".gitbook/assets/스크린샷 2022-10-25 오전 11.34.35.png" alt=""><figcaption><p>Stego 화면 예시 </p></figcaption></figure>
