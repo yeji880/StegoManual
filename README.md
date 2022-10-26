@@ -1,17 +1,69 @@
-# Stego란?
+# 목차
 
-<figure><img src=".gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+## [1. Stego란?](<README (1).md>)
 
-Stego는 AI Vision 인식 기술 기반의 모바일 테스트 시나리오 저작 도구입니다.
+## [2. 기본 기능](./#2.)
 
-* **코드 없이 쉽게 작성(No Code)**\
-  UI 요소를 Drag\&Drop 방식으로 시나리오를 작성하기 때문에 프로그래밍 지식이 없는 초보자도 손쉽게 테스트 시나리오를 작성할 수 있습니다.\
+[2.1 기본 화면 구성](basic/undefined.md)
 
-* **빠른 작성 속도**\
-  AI 엔진이 실시간으로 이미지를 분석해서 사용자에게 UI 요소 목록을 제공해 주어 기존의 저작 도구와는 차원이 다른 작성 속도를 체감할 수 있습니다.\
+[2.2 기본 사용 방법](basic/undefined-1.md)
 
-* **폭넓은 Test Case 작성** \
-  다양한 화면 분석 도구를 통해 기존 테스트 케이스 작성의 한계를 넘어 보다 세밀하고 풍부한 테스트 케이스를 작성할 수 있습니다.\
+[2.3 메뉴바](basic/menubar.md)
 
+[2.4 워크스페이스](basic/undefined-2.md)
 
-<figure><img src=".gitbook/assets/스크린샷 2022-10-25 오전 11.34.35.png" alt=""><figcaption><p>Stego 화면 예시 </p></figcaption></figure>
+[2.5 시나리오](basic/scenario.md)
+
+[2.6 디바이스](basic/devices.md)
+
+[2.7 디바이스 패널](basic/undefined-3.md)
+
+## [3. 시나리오 작성과 실행](./#3.)
+
+3.1 작성 패널 구성
+
+3.2 작성하기
+
+3.3 실행하기
+
+3.4 내보내기
+
+3.5 시나리오 속성 설정
+
+3.6 스텝 속성 설
+
+## [4. 액션 목록](./#4.)
+
+4.1 액션목
+
+4.2 Motion
+
+4.3 Variables
+
+4.4 Control
+
+4.5 Assertion
+
+4.6 Events
+
+4.7 Advanced
+
+## [5. 화면 분석 도구 목록](./#5.)
+
+5.1 화면 분석 도구
+
+5.2 OD(Object Detection)
+
+5.3 OCR(Optical Character Recognition)
+
+5.4 Crop Image
+
+5.5 Custom Box
+
+5.6 Full Screen
+
+5.7 Relative
+
+## [6. 튜토리얼](./#6.)
+
+## [7. 자주하는 질문(FAQ)](./#undefined)
